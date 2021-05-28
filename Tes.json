@@ -1,0 +1,63 @@
+{
+  "Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"3",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":4,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":204360763,
+      "mopub_banner":"66763093d3c047b9bdc6873a0600e3eb",
+      "mopub_inter":"b9abe5b62ec440d083e9ece26cac8163",
+      "unityID":"4147499",
+      "unity_inter":"video",
+      "unity_banner":"bannerid"
+    }
+  ],
+  "More":
+  [
+
+  ],
+   "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"skin 1",
+      "skin_url":"https://oyskins.github.io/assets/skin/skin1.png",
+      "view_skin":"https://oyskins.github.io/assets/view/skin1.png"
+    },
+    {
+      "id":2,
+      "nama_skin":"skin 2",
+      "skin_url":"https://oyskins.github.io/assets/skin/skin2.png",
+      "view_skin":"https://oyskins.github.io/assets/view/skin2.png"
+    },
+    {
+      "id":3,
+      "nama_skin":"skin 3",
+      "skin_url":"https://oyskins.github.io/assets/skin/skin3.png",
+      "view_skin":"https://oyskins.github.io/assets/view/skin3.png"
+    },
+    {
+      "id":4,
+      "nama_skin":"skin 4",
+      "skin_url":"https://oyskins.github.io/assets/skin/skin4.png",
+      "view_skin":"https://oyskins.github.io/assets/view/skin4.png"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
