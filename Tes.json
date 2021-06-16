@@ -29,147 +29,65 @@
   [
     {
       "id":1,
-      "nama_skin":"skin 1",
-      "skin_url":"https://oyskins.github.io/assets/skin/skin1.png",
-      "view_skin":"https://oyskins.github.io/assets/view/skin1.png"
+      "nama_skin":"Super saiyan goku",
+      "skin_url":"https://www.minecraftskins.com/uploads/skins/2021/06/15/super-saiyan-goku-18131164.png",
+      "view_skin":"https://www.minecraftskins.com/uploads/preview-skins/2021/06/15/super-saiyan-goku-18131164.png"
     },
     {
       "id":2,
-      "nama_skin":"skin 2",
-      "skin_url":"https://oyskins.github.io/assets/skin/skin2.png",
-      "view_skin":"https://oyskins.github.io/assets/view/skin2.png"
+      "nama_skin":"Base goku",
+      "skin_url":"https://www.minecraftskins.com/uploads/skins/2021/06/15/base-goku-18130244.png",
+      "view_skin":"https://www.minecraftskins.com/uploads/preview-skins/2021/06/15/base-goku-18130244.png"
     },
     {
       "id":3,
-      "nama_skin":"skin 3",
-      "skin_url":"https://oyskins.github.io/assets/skin/skin3.png",
-      "view_skin":"https://oyskins.github.io/assets/view/skin3.png"
+      "nama_skin":"Super Saiyajin 4",
+      "skin_url":"https://www.minecraftskins.com/uploads/skins/2021/06/15/goku-super-saiyajin-4-18125867.png",
+      "view_skin":"https://www.minecraftskins.com/uploads/preview-skins/2021/06/15/goku-super-saiyajin-4-18125867.png"
     },
     {
       "id":4,
-      "nama_skin":"skin 4",
-      "skin_url":"https://oyskins.github.io/assets/skin/skin4.png",
-      "view_skin":"https://oyskins.github.io/assets/view/skin4.png"
+      "nama_skin":"ultra instinct",
+      "skin_url":"https://www.minecraftskins.com/uploads/skins/2021/06/14/goku-ultra-instinct--enhanced-version--18117660.png",
+      "view_skin":"https://www.minecraftskins.com/uploads/preview-skins/2021/06/14/goku-ultra-instinct--enhanced-version--18117660.png"
+    },
+    {
+      "id":5,
+      "nama_skin":"super saiyan god",
+      "skin_url":"https://www.minecraftskins.com/uploads/skins/2021/06/14/goku-super-saiyan-god--enhanced-version--18117641.png",
+      "view_skin":"https://www.minecraftskins.com/uploads/preview-skins/2021/06/14/goku-super-saiyan-god--enhanced-version--18117641.png"
+    },
+    {
+      "id":6,
+      "nama_skin":"Piccolo",
+      "skin_url":"https://www.minecraftskins.com/uploads/skins/2021/06/14/piccolo-without-demon-clothes--enhanced-version--18117621.png",
+      "view_skin":"https://www.minecraftskins.com/uploads/preview-skins/2021/06/14/piccolo-without-demon-clothes--enhanced-version--18117621.png"
+    },
+    {
+      "id":7,
+      "nama_skin":"Piccolo demon clothes",
+      "skin_url":"https://www.minecraftskins.com/uploads/skins/2021/06/14/piccolo-with-demon-clothes--enhanced-version--18117609.png",
+      "view_skin":"https://www.minecraftskins.com/uploads/preview-skins/2021/06/14/piccolo-with-demon-clothes--enhanced-version--18117609.png"
+    },
+    {
+      "id":8,
+      "nama_skin":"Goten",
+      "skin_url":"https://www.minecraftskins.com/uploads/skins/2021/06/14/goten--sama--18117574.png",
+      "view_skin":"https://www.minecraftskins.com/uploads/preview-skins/2021/06/14/goten--sama--18117574.png"
+    },
+    {
+      "id":9,
+      "nama_skin":"goku black",
+      "skin_url":"https://www.minecraftskins.com/uploads/skins/2021/06/11/goku-black-18094170.png",
+      "view_skin":"https://www.minecraftskins.com/uploads/preview-skins/2021/06/11/goku-black-18094170.png"
     }
   ],
   "Addons":
   [
-    {
-      "id":1,
-      "nama_add":"Laser Guns",
-      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns.zip",
-      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-B.mcpack",
-      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-R.mcpack",
-      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
-      "des_add":"https://plus62852.github.io/File/addon.html"
-    },
-    {
-      "id":2,
-      "nama_add":"Number Blocks",
-      "add_url":"https://archive.org/download/add-on-kimidroid/addon/blocks.zip",
-      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-B.mcpack",
-      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-R.mcpack",
-      "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
-      "des_add":"https://plus62852.github.io/File/addon.html"
-    },
-    {
-      "id":3,
-      "nama_add":"The Imposter",
-      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter.zip",
-      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-B.mcpack",
-      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-R.mcpack",
-      "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
-      "des_add":"https://plus62852.github.io/File/addon.html"
-    },
-    {
-      "id":4,
-      "nama_add":"Uncrafting Table",
-      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable.zip",
-      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-B.mcpack",
-      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-R.mcpack",
-      "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
-      "des_add":"https://plus62852.github.io/File/addon.html"
-    },
-    {
-      "id":5,
-      "nama_add":"Furniture",
-      "add_url":"https://archive.org/download/add-on-kimidroid/addon/furniture.zip",
-      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-B.mcpack",
-      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-R.mcpack",
-      "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
-      "des_add":"https://plus62852.github.io/File/addon.html"
-    },
-    {
-      "id":6,
-      "nama_add":"Guns",
-      "add_url":"https://archive.org/download/add-on-kimidroid/addon/guns.zip",
-      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/guns-B.mcpack",
-      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/guns-R.mcpack",
-      "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
-      "des_add":"https://plus62852.github.io/File/addon.html"
-    },
-    {
-      "id":7,
-      "nama_add":"Dynamite Projectile",
-      "add_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite.zip",
-      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-B.mcpack",
-      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-R.mcpack",
-      "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
-      "des_add":"https://plus62852.github.io/File/addon.html"
-    },
-    {
-      "id":8,
-      "nama_add":"Actual Guns",
-      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
-      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunB.mcpack",
-      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunR.mcpack",
-      "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
-      "des_add":"https://plus62852.github.io/File/addon.html"
-    }
+
   ],
   "Maps":
   [
-    {
-      "id":1,
-      "nama_map":"Bedrock Auto Chicken",
-      "map_url":"https://archive.org/download/maps-kimidroid/maps/Bedrock.zip",
-      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    },
-    {
-      "id":2,
-      "nama_map":"Among Us Map",
-      "map_url":"https://archive.org/download/maps-kimidroid/maps/Among-us-Map.zip",
-      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    },
-    {
-      "id":3,
-      "nama_map":"Cubical's Tower",
-      "map_url":"https://archive.org/download/maps-kimidroid/maps/Cubicalstower.zip",
-      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    },
-    {
-      "id":4,
-      "nama_map":"Achievement World",
-      "map_url":"https://archive.org/download/maps-kimidroid/maps/achievementworld.zip",
-      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    },
-    {
-      "id":5,
-      "nama_map":"HardCoreLine",
-      "map_url":"https://archive.org/download/maps-kimidroid/maps/hardcoreline.zip",
-      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    },
-    {
-      "id":6,
-      "nama_map":"Hello Neighbor",
-      "map_url":"https://archive.org/download/maps-kimidroid/maps/hello-neighbour.zip",
-      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    }
+
   ]
 }
