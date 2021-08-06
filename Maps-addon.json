@@ -1,0 +1,152 @@
+{
+  "Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":4,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":204360763,
+      "mopub_banner":"66763093d3c047b9bdc6873a0600e3eb",
+      "mopub_inter":"b9abe5b62ec440d083e9ece26cac8163",
+      "unityID":"4147499",
+      "unity_inter":"video",
+      "unity_banner":"bannerid"
+    }
+  ],
+  "More":
+  [
+
+  ],
+   "Skin":
+  [
+
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/blocks.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/furniture.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/guns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/guns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/guns-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunB.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunR.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Bedrock.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Among-us-Map.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Cubicalstower.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/achievementworld.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hardcoreline.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hello-neighbour.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    }
+  ]
+}
