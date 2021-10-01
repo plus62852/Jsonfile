@@ -9,7 +9,7 @@
       "admob_banner":"",
       "admob_inter":"",
       "admob_native":"",
-      "interval":7,
+      "interval":4,
       "fan_inter":"",
       "fan_banner":"",
       "fan_native":"",
@@ -17,7 +17,7 @@
       "mopub_banner":"66763093d3c047b9bdc6873a0600e3eb",
       "mopub_inter":"b9abe5b62ec440d083e9ece26cac8163",
       "unityID":"4147499",
-      "unity_inter":"Interstitial_Android",
+      "unity_inter":"Rewarded_Android",
       "unity_banner":"Banner_Android"
     }
   ],
